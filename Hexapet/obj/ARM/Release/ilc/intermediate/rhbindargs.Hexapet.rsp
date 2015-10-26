@@ -1,0 +1,15 @@
+/osver:6.2
+/appcontainer
+/runtime:mrt100_app
+/eh:clr
+/pdb
+"/nativelink:C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Native\vmath.lib"
+/methodBodyFolding
+"C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\Hexapet\Hexapet\obj\ARM\Release\ilc\intermediate\MDIL\Hexapet.mdilexe"
+"/i:C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\Hexapet\Hexapet\obj\ARM\Release\ilc\intermediate\MDIL\"
+/out:"C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\Hexapet\Hexapet\obj\ARM\Release\ilc\intermediate\Native\Hexapet.exe"
+"/res:C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\Hexapet\Hexapet\obj\ARM\Release\ilc\intermediate\Native.res"
+/standalone
+/shimexe
+"/nativelink:C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Native\Interop.Native.lib"
+"/nativelink:C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Native\corelib.native.lib"

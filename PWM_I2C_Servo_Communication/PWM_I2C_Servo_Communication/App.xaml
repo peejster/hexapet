@@ -1,8 +1,0 @@
-﻿<Application
-    x:Class="PWM_I2C_Servo_Communication.App"
-    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:PWM_I2C_Servo_Communication"
-    RequestedTheme="Light">
-
-</Application>

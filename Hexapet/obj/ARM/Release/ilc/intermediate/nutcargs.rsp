@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\Hexapet\Hexapet\obj\ARM\Release\ilc\intermediate\ILTransformed\Hexapet.metadata"
+/reflectionMetadataAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\Hexapet\Hexapet\obj\ARM\Release\ilc\intermediate\ILTransformed\Hexapet.csv"
+/sharedGenericsMode StandardHeuristics
+/in "C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\Hexapet\Hexapet\obj\ARM\Release\ilc\intermediate\ILTransformed\Hexapet.ilexe"
+/out "C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\Hexapet\Hexapet\obj\ARM\Release\ilc\intermediate\MDIL\Hexapet.mdilexe"
